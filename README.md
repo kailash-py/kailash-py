@@ -175,7 +175,7 @@ Deep Learning & Generative AI
 </div>
 
 ---
-
+<!--
 # 🏅 GitHub Trophies
 
 <div align="center">
@@ -185,7 +185,7 @@ Deep Learning & Generative AI
 </div>
 
 ---
-
+-->
 # 📊 Contribution Graph
 
 <div align="center">

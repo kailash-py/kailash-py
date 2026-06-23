@@ -9,8 +9,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Engineer;Deep+Learning+%7C+NLP+%7C+Generative+AI;Building+Real+World+AI+Applications;Future+AI+Founder+%F0%9F%9A%80" />
 
+<!--
 <img src="https://komarev.com/ghpvc/?username=kailash-py&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-
+-->
 </div>
 
 ---

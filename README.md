@@ -1,5 +1,7 @@
 <div align="center">
 
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24,30&text=KAILASH%20KUMAR%20HEDAOO&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+-->
 # 👋 Hi, I'm Kailash Kumar Hedaoo
 
 ### 🎓 IIT Madras BS Data Science Student
@@ -111,10 +113,14 @@ Current Goal: Become World-Class AI Engineer
 
 Advanced Quiz Platform
 
-✨ Vue.js SPA  
+✨ Vue.js SPA 
+
 ✨ Flask REST API  
+
 ✨ Celery + Redis  
+
 ✨ PostgreSQL  
+
 ✨ Analytics Dashboard
 
 ---
@@ -124,9 +130,13 @@ Advanced Quiz Platform
 Deep Learning & Generative AI
 
 ✨ CNNs
+
 ✨ Transformers
+
 ✨ PyTorch
+
 ✨ Hugging Face
+
 ✨ Weights & Biases
 
 ---
@@ -134,8 +144,11 @@ Deep Learning & Generative AI
 ## 📝 NLP Text Classification
 
 ✨ TF-IDF
+
 ✨ Word2Vec
+
 ✨ XGBoost
+
 ✨ Feature Engineering
 
 ---
